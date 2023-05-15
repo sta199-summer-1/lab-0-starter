@@ -1,0 +1,38 @@
+---
+title: "Lab 0 - Hello R!"
+author: "[INSERT NAME]"
+format: pdf
+editor: visual
+---
+  
+## Load Packages
+
+```{r}
+#| label: load-packages
+#| message: false
+#| warning: false
+
+library(tidyverse)
+library(datasauRus)
+```
+  
+
+**Hint** You can insert an R code chunk either using the RStudio toolbar (the Insert button) or the keyboard shortcut Ctrl + Alt + I ( Cmd + Option + I on macOS)
+
+
+## Exercise 1
+
+(Type your answer to Exercise 1 here. Add code chunks as needed. Don't forget to label your code chunk. Do not use spaces in code chunk labels. Recall that code chunk labels can not be the same as others in the document.)  
+
+
+## Exercise 2
+
+(Type your answer to Exercise 2 here. Add code chunks as needed. Don't forget to label your code chunk. Do not use spaces in code chunk labels. Recall that code chunk labels can not be the same as others in the document.)
+
+## Exercise 3
+
+(Type your answer to Exercise 3 here. Add code chunks as needed. Don't forget to label your code chunk. Do not use spaces in code chunk labels.)
+
+## Exercise 4
+
+## Exercise 5
